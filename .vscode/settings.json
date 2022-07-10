@@ -1,0 +1,6 @@
+{
+    "workbench.tree.indent": 4,
+    "vim.autoindent": true,
+	"editor.insertSpaces": true,
+	"editor.tabSize": 2
+}
